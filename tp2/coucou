@@ -1,0 +1,79 @@
+[P5385] Je dois produire 4 tâches.
+[P5384] Je dois produire 5 tâches.
+[P5383] Je dois produire 1 tâches.
+[P5386] Je dois produire 7 tâches.
+[P5385] tâche 2526 à réaliser.
+[C5388] Je traite la tâche 56, ça me prendra 2.27448 secondes environ.
+[P5383] tâche 12699 à réaliser.
+[C5393] Je traite la tâche 199, ça me prendra 2.24480 secondes environ.
+[P5383] tâche 15956 à réaliser.
+[C5390] Je traite la tâche 2, ça me prendra 1.10901 secondes environ.
+[P5383] J'ai fini mon travail.
+[P5386] tâche 17085 à réaliser.
+[C5391] Je traite la tâche , ça me prendra 1.779 secondes environ.
+[P5385] tâche 27526 à réaliser.
+[C5394] Je traite la tâche 2259567827526, ça me prendra 2.7569 secondes environ.
+[C5390] J'ai fini de traiter 2, y-a-t-il d'autres tâches à traiter?
+[P5385] tâche 6865 à réaliser.
+[C5392] Je traite la tâche 156, ça me prendra 0.9315 secondes environ.
+[P5385] tâche 20168 à réaliser.
+[C5389] Je traite la tâche 61520168, ça me prendra 0.7600 secondes environ.
+[P5384] tâche 9846 à réaliser.
+[C5395] Je traite la tâche 0694, ça me prendra 0.20729 secondes environ.
+[C5395] J'ai fini de traiter 0694, y-a-t-il d'autres tâches à traiter?
+[C5388] J'ai fini de traiter 56, y-a-t-il d'autres tâches à traiter?
+[C5393] J'ai fini de traiter 199, y-a-t-il d'autres tâches à traiter?
+[C5389] J'ai fini de traiter 61520168, y-a-t-il d'autres tâches à traiter?
+[C5392] J'ai fini de traiter 156, y-a-t-il d'autres tâches à traiter?
+[P5386] tâche 2251 à réaliser.
+[C5388] Je traite la tâche 25, ça me prendra 1.9038 secondes environ.
+[C5391] J'ai fini de traiter , y-a-t-il d'autres tâches à traiter?
+[C5392] Je traite la tâche 1, ça me prendra 2.15177 secondes environ.
+[P5385] tâche 16083 à réaliser.
+[P5385] J'ai fini mon travail.
+[C5394] J'ai fini de traiter 2259567827526, y-a-t-il d'autres tâches à traiter?
+[C5388] J'ai fini de traiter 25, y-a-t-il d'autres tâches à traiter?
+[P5386] tâche 31449 à réaliser.
+[C5394] Je traite la tâche 14, ça me prendra 3.23664 secondes environ.
+[P5384] tâche 28696 à réaliser.
+[C5389] Je traite la tâche 62866, ça me prendra 1.15258 secondes environ.
+[C5392] J'ai fini de traiter 1, y-a-t-il d'autres tâches à traiter?
+[C5389] J'ai fini de traiter 62866, y-a-t-il d'autres tâches à traiter?
+[P5384] tâche 24776 à réaliser.
+[C5389] Je traite la tâche 24776, ça me prendra 0.22741 secondes environ.
+[C5389] J'ai fini de traiter 24776, y-a-t-il d'autres tâches à traiter?
+[P5386] tâche 27026 à réaliser.
+[C5389] Je traite la tâche 7, ça me prendra 0.27250 secondes environ.
+[C5394] J'ai fini de traiter 14, y-a-t-il d'autres tâches à traiter?
+[C5389] J'ai fini de traiter 7, y-a-t-il d'autres tâches à traiter?
+[P5386] tâche 32314 à réaliser.
+[C5389] Je traite la tâche 331, ça me prendra 1.3804 secondes environ.
+[P5386] tâche 6199 à réaliser.
+[C5390] Je traite la tâche 8862006199, ça me prendra 1.29806 secondes environ.
+[P5384] tâche 31475 à réaliser.
+[C5392] Je traite la tâche 2263175, ça me prendra 2.14989 secondes environ.
+[C5389] J'ai fini de traiter 331, y-a-t-il d'autres tâches à traiter?
+[C5390] J'ai fini de traiter 8862006199, y-a-t-il d'autres tâches à traiter?
+[C5392] J'ai fini de traiter 2263175, y-a-t-il d'autres tâches à traiter?
+[P5386] tâche 9644 à réaliser.
+[C5392] Je traite la tâche 644, ça me prendra 1.19025 secondes environ.
+[P5384] tâche 16897 à réaliser.
+[C5388] Je traite la tâche 349168, ça me prendra 2.2506 secondes environ.
+[P5384] tâche 12194 à réaliser.
+[C5391] Je traite la tâche 124219, ça me prendra 0.30784 secondes environ.
+[P5384] J'ai fini mon travail.
+[C5391] J'ai fini de traiter 124219, y-a-t-il d'autres tâches à traiter?
+[P5386] tâche 6135 à réaliser.
+[C5392] J'ai fini de traiter 644, y-a-t-il d'autres tâches à traiter?
+[C5395] Je traite la tâche 394613, ça me prendra 3.10642 secondes environ.
+[P5386] J'ai fini mon travail.
+[C5390] J'ai fini mon travail (plus de tâches).
+[C5394] J'ai fini mon travail (plus de tâches).
+[C5392] J'ai fini mon travail (plus de tâches).
+[C5393] J'ai fini mon travail (plus de tâches).
+[C5391] J'ai fini mon travail (plus de tâches).
+[C5389] J'ai fini mon travail (plus de tâches).
+[C5388] J'ai fini de traiter 349168, y-a-t-il d'autres tâches à traiter?
+[C5388] J'ai fini mon travail (plus de tâches).
+[C5395] J'ai fini de traiter 394613, y-a-t-il d'autres tâches à traiter?
+[C5395] J'ai fini mon travail (plus de tâches).

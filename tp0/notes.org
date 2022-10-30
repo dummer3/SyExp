@@ -1,0 +1,32 @@
+* Lien : ln fichier link
+  - ln -s (symbolique) -r (relatif seulement si symbolique) file link
+
+* Tree
+  -l follow symbolic
+  -s size (-u -g -p file type ...)
+  -d directory only
+  -a all files
+  -t sort by last modifiaction
+
+* chmod
+  4 : x
+  2 : w
+  1 : r
+  755 ...
+  [augo][+-=][xwr]
+  +[t (can't delete or rename other than g or u) s (execute with g ou u )]
+
+* su newuser
+* sudo useradd newuser
+* sudo passwd newuser
+  
+* find
+
+  find \/home\/ -type [f d (s b c)] -name "*.txt" -print 2>/dev/null | head -n 16
+  ainsi que -size +16M
+  -iname = pas de cast
+  -regex '...'
+
+* stat + readlink (voir ~/scripts)
+
+* script bash (same)

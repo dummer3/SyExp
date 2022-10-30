@@ -1,0 +1,64 @@
+* Exercice n°1
+
+** 1
+  
+*** a)
+
+  Lecture : <word
+  Ecriture : >word
+  Lecture et écriture : >word <word ou <>word (écriture avant lecture pour
+  éviter de remettre à 0 notre fichier)
+
+  le mieux : 3<>word <&3 >&3 (création d'un nouvelle redirection en 3).
+     
+*** b)
+
+   <~/.bashrc : lecture de la bashrc
+   3<>/tmp/toto : création d'une redirection d'entrée et sortie du fichier toto
+   >>/tmp/toto : append de toto
+
+*** c)
+
+   2>&1 : redirection de l'erreur standard vers la sortie standard (ou ceux sur
+   quoi pointe 1)
+
+   3>&- : fermeture de la redirection n°3
+
+*** d)
+
+   3>&1 1>&2 2>&3 3>&- : On inverse la sortie standard et la sortie d'erreur
+   standard.
+
+** 3) et 4)
+   
+   testRedirections | grep "$USER" ne va colorier que la sortie standard
+   Donc testRedirections 3>&2 2>&1 1>&3- (= 1>&3 3>&-)
+
+** 5)
+
+*** a) ls -l /proc/self/fd 0</tmp/toto
+*** b) ls -l /proc/self/fd 0<>/tmp/toto
+*** c) ls -l /proc/self/fd 2>/tmp/toto
+*** d) ls -l /proc/self/fd 2>/tmp/toto 0</tmp/toto 3<>/tmp/toto 4</tmp/tata 5>&2
+
+* Exercice n°2
+
+  Aller voir les 3 fichiers .sh, vraiment intéressant.
+
+* Exercice n°3
+
+ Voir fichier
+
+*** 3 ^D Y ^C N (trap) exit N (exit le sous shell)
+
+** $? nous donne le résultat du retour de la dernière commande, il nous faut
+donc le retour de wait $! ($! est le PID de la dernière commande)
+
+** trap " " 2 3 ... va annuler l'écouter pour le sigterm 2 3 ... (ou SIGINT)
+
+* Exercice n°4
+
+** 2 { ./lecteur.sh test & ./ecrivain.sh test; } et avec un sleep .025 entre 2
+ligne du lecteur
+
+** 3 On constate de la même façon une superposition des appels
